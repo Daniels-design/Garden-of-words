@@ -1,2 +1,5 @@
 # Garden-of-words
- Pequeno auto-desafio. Template retirado do pinterest, onde apenas o desenvolvi da minha forma. 
+ Pequeno auto-desafio. 
+
+ Acesse o site: https://daniels-design.github.io/Garden-of-words/
+ Mande um feedback, se possível ^^
